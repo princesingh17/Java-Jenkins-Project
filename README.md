@@ -45,5 +45,15 @@ Included real screenshots from your Jenkins setup:
   <img width="1208" height="522" alt="image" src="./screenshots/Image4" />
 
   <img width="1001" height="496" alt="image" src="./screenshots/Image5" />
+## ✅ Outcome
 
+- Pipeline can be triggered from Jenkins manually.
+- Code is pulled from GitHub on each run.
+- Builds and tests run automatically as part of the pipeline.
+
+## 📚 What I Learned
+
+- Integrating Jenkins with GitHub repositories
+- Running Java CI pipelines manually
+- Understanding Maven build lifecycle
 

@@ -35,15 +35,15 @@ This project demonstrates a **manual CI/CD pipeline** for a Java-based web appli
 
 Included real screenshots from your Jenkins setup:
 - Jenkins dashboard
- <img width="1139" height="402" alt="image" src="https://github.com/user-attachments/assets/7186592a-34da-44c8-b8e6-c418e9a06147" />
+ <img width="1139" height="402" alt="image" src="./screenshots/Image1" />
 - Job configuration
-  <img width="1086" height="536" alt="image" src="https://github.com/user-attachments/assets/73940503-f87a-44ff-b9f7-da75777fb558" />
+  <img width="1086" height="536" alt="image" src="./screenshots/Image2" />
 - Build docker image and Pushed on Docker Hub
-  <img width="1170" height="529" alt="image" src="https://github.com/user-attachments/assets/c384fbc1-f3c5-40e8-9541-3ca2c64f90c5" />
+  <img width="1170" height="529" alt="image" src="./screenshots/Image3" />
 
 - Console output of a successful run
-  <img width="1208" height="522" alt="image" src="https://github.com/user-attachments/assets/de61cabe-7247-4842-944e-77d83b3ea7ce" />
+  <img width="1208" height="522" alt="image" src="./screenshots/Image4" />
 
-  <img width="1001" height="496" alt="image" src="https://github.com/user-attachments/assets/5f7c493c-130f-4db1-91e7-37e9269265b4" />
+  <img width="1001" height="496" alt="image" src="./screenshots/Image5" />
 
 
